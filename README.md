@@ -30,7 +30,4 @@ This repository contains a simple verification tool to test your code against pr
     Overflow Errors:
 In the test cases provided, it is guaranteed that no integer overflow should occur when using the ```int``` type. However, the current version of this tool does not detect or handle overflow errors that may arise from incorrect implementations. If you encounter such errors, it is recommended to debug and adjust your implementation. Contributions to improve this aspect of the tool are welcome!
 
-5. Contribution
-
-    If you want to contribute to enhancing this tool, such as by adding overflow detection, feel free to submit a pull request. Contributions to improve the tool and make it more robust are highly appreciated.
 
